@@ -4,4 +4,7 @@ class HomesController < ApplicationController
 
   def mypage
   end
+  
+  def about
+  end
 end
